@@ -1,0 +1,14 @@
+[
+  {
+    "package": "corpus",
+    "oncran": true
+  },
+  {
+    "package": "stylest",
+    "oncran": true
+  },
+  {
+    "package": "zipR",
+    "oncran": true
+  }
+]
