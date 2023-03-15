@@ -1,10 +1,10 @@
 [
   {
-    "package": "stylest",
+    "package": "corpus",
     "oncran": true
   },
   {
-    "package": "corpus",
+    "package": "stylest",
     "oncran": true
   },
   {

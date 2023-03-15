@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "stylest"]
-	path = stylest
-	url = https://github.com/leslie-huang/stylest
-	shallow = true
-	registered = true
 [submodule "corpus"]
 	path = corpus
 	url = https://github.com/leslie-huang/r-corpus
+	shallow = true
+	registered = true
+[submodule "stylest"]
+	path = stylest
+	url = https://github.com/leslie-huang/stylest
 	shallow = true
 	registered = true
 [submodule "zipR"]
