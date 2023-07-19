@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "corpus"]
-	path = corpus
-	url = https://github.com/leslie-huang/r-corpus
-[submodule "stylest"]
-	path = stylest
-	url = https://github.com/leslie-huang/stylest
 [submodule "zipR"]
 	path = zipR
 	url = https://github.com/leslie-huang/zipr
